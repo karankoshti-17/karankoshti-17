@@ -1,19 +1,5 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20052
-Fork on GitHub
-6060
 
-back to edit
 
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Karan Koshti</h1>
 <h3 align="center">A passionate frontend developer from Gujarat, India</h3>
 
